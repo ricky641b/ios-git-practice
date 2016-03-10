@@ -16,6 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    NSString *sd = @"dfasdf";
     // Do any additional setup after loading the view, typically from a nib.
 }
 
